@@ -2,10 +2,8 @@
 
 - [Textbook video notes](#textbook-video-notes)
   - [Chapter 1: introduction](#chapter-1-introduction)
-    - [part 1](#part-1)
-      - [6 parts of the financial system:](#6-parts-of-the-financial-system)
-    - [Part 2:](#part-2)
-      - [5 core principles of money and banking (TRIMS)](#5-core-principles-of-money-and-banking-trims)
+    - [6 parts of the financial system:](#6-parts-of-the-financial-system)
+    - [5 core principles of money and banking (TRIMS)](#5-core-principles-of-money-and-banking-trims)
   - [Chapter 2: money and the banking system](#chapter-2-money-and-the-banking-system)
     - [Part 1: what is money](#part-1-what-is-money)
       - [Properties of money](#properties-of-money)
@@ -36,13 +34,10 @@
   - [Chapter 7: Ratings and the risk structure of interest rates](#chapter-7-ratings-and-the-risk-structure-of-interest-rates)
     - [Identity of the issuer](#identity-of-the-issuer)
     - [Difference in time to maturity](#difference-in-time-to-maturity)
-  - [Chapter 8: stocks, stock markets, market efficiency](#chapter-8-stocks-stock-markets-market-efficiency)
 
 ## Chapter 1: introduction
 
-### part 1
-
-#### 6 parts of the financial system:
+### 6 parts of the financial system:
 
 1. **Money**: payment; storage of wealth
 2. **Financial instruments**: transfer money from savers to those who need it, and to transfer risk to those who can best bear it
@@ -51,9 +46,7 @@
 5. **Regulatory agencies**: ensure elements in the financial system (instruments, markets, institutions) operate in a safe manner
 6. **Central banks**: monitoring and stabilizing the economy
 
-### Part 2:
-
-#### 5 core principles of money and banking (TRIMS)
+### 5 core principles of money and banking (TRIMS)
 
 1. **Time**
     - wage = cost of your time
@@ -318,8 +311,4 @@ Investor considers after-tax return for bond yields. Some bonds (municipal bonds
   - `Bond yield = rf yield + risk premium`.
   - The expectations hypothesis explains the risk-free yield.
   - The inflation and interest rate risk explains the risk premium.
-
-## Chapter 8: stocks, stock markets, market efficiency
-
-
 
