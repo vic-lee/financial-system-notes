@@ -419,7 +419,7 @@ think they can conceal it*.
   - **Ponzi schemes**. Solution: severe punishment (by the government).
   - **The principal-agent problem**
 
-In debt, overcome moral hazard by covenants. Equity finnance does not have this 
+In debt, overcome moral hazard by covenants. Equity finance does not have this 
 option.
 
 ##### The debt overhang problem
